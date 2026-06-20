@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./StyleLens_Logo.webp" alt="StyleLens Logo" width="200" height="200" style="margin: 20px 0;" />
+  <img src="./Stylelens_Logo.webp" alt="StyleLens Logo" width="200" height="200" style="margin: 20px 0;" />
   
   # StyleLens — AI Virtual Try-On SaaS
   ### Developed by Rohit Arabale
